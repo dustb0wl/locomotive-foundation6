@@ -2,3 +2,5 @@ log/
 .push-tmp/
 .sass-cache/
 *.log
+*.lock
+deploy.yml
